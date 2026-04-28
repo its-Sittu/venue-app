@@ -1,6 +1,6 @@
 #  Venue Listing App
 
-A imple and clean **React-based venue listing web app** that displays multiple venues with image, location, and pricing in a responsive grid layout.
+A Simple and clean **React-based venue listing web app** that displays multiple venues with image, location, and pricing in a responsive grid layout.
 
 ---
 
